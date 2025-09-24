@@ -1,0 +1,3 @@
+env/
+# excel lock files ex: .~lock.datos_base.xlsx#
+*.~lock.*.xlsx#
